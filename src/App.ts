@@ -7,8 +7,8 @@ import ExceptionHandler from "./middlewares/ExceptionHandler";
 
 class App {
   app: Express;
-  port: string | undefined;
-  server: Server | undefined;
+  port: string;
+  server: Server;
 
   constructor() {
     this.app = express();
