@@ -17,3 +17,8 @@ $ yarn dev
 ```
 Usage
 Once the server is running, you can access it by navigating to http://localhost:3005 in your web browser.
+
+# List Of API Urls
+
+    1. http://localhost:3005/api/product/1
+    2. http://localhost:3005/api/mostViewed
